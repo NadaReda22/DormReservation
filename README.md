@@ -1,5 +1,18 @@
 # 🏠 Student Room Reservation System (Port Said University)
 
+## 🧐 Motivation & Problem Statement
+
+For years, the manual room reservation process was a nightmare for students.
+- **Physical Hardship:** Students from distant governorates had to sleep on the streets or arrive at dawn to secure a spot.
+- **Chaos & Unfairness:** Overcrowding led to conflicts, and the lack of a transparent system meant that latecomers could sometimes book before early birds due to manual errors or favoritism.
+- **Inefficiency:** The manual queue was slow, prone to errors, and exhausted both staff and students.
+
+**The Goal:** Transform this chaotic day into a fair, organized, and digital experience where **"Code enforces Fairness."**
+
+---
+
+## 💡 The Solution (Logic & Challenges)
+
 A Laravel-based web application that allows university students to reserve dorm rooms in a **queue-based system** with smart prioritization and confirmation flow.
 
 ---
